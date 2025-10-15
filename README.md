@@ -2,10 +2,10 @@
 
 Este es un proyecto de una aplicación sencilla de gestor de tareas, que permite agregar, modificar, y eliminar tareas, con almacenamiento en el navegador utilizando LocalStorage. La interfaz es moderna y amigable, diseñada para facilitar la gestión de tareas cotidianas.
 
-# Integrantes
+# Integrante
 
 - Talia Yaritza Gelvez Gelvez
-- Paula Andrea Ramirez Casilimas
+
 
 # Características
 
